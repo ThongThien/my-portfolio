@@ -97,12 +97,12 @@ export default function Footer() {
             <li className="flex items-center gap-4">
               <FaLinkedin className="text-[#00FF88] text-xl" />
               <a
-                href="https://linkedin.com/in/thongthien"
+                href="https://www.linkedin.com/in/thong-thien-nguyen-384373391/"
                 target="_blank"
                 rel="noreferrer"
                 className="hover:text-[#00FF88]"
               >
-                linkedin.com/in/thongthien
+                linkedin.com/in/thong-thien-nguyen-384373391/
               </a>
             </li>
             <li className="flex items-center gap-4">
